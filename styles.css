@@ -1,5 +1,9 @@
 h1 {
-  border: 1px solid blue;
+  border: 3px solid greenyellow;
+  text-align: center;
+  width: 230px;
+  background-color: blue;
+  color: white;
 }
 
 p {
@@ -8,4 +12,10 @@ p {
 
 h2 {
   border: 1px solid grey;
+}
+
+.menu-principal {
+  border: 1px solid red;
+  width: 240px;
+  margin: auto;
 }
